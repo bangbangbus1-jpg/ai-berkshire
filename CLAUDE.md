@@ -12,7 +12,6 @@ skills/          — 投研 Skill 定义（.md），复制到 ~/.claude/commands
 tools/           — 辅助工具（financial_rigor.py 精确计算、twstock_data.py 台股FinMind取数）
 reports/         — 投资研究报告输出
 assets/          — 图片等静态资源
-.claude/skills/todo/ — 个人待办助理（非投研，数据在 Notion，不受下方报告规则约束）
 ```
 
 ## 报告目录结构
